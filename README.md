@@ -4,3 +4,5 @@
 If the string is a multiple of 3 then output this string by removing every third element in this string. <br>
 <b>Author:</b> G.Michael.S <br>
 <b>Date:</b> 30.01.2016 <br>
+
+<b>Project Link: https://github.com/GMSGitHub/ThirdElement </b>
